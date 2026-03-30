@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Tejas Chavan
 
-<!--
-**Tejas-Cyber10/Tejas-Cyber10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Aspiring Cybersecurity Specialist  
+🎓 BSc Computer Science (2028)  
+💻 Skilled in Python, SQL,Cybersecurity & Ethical Hacking  
+📍 Based in Virar / Mumbai, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+I am passionate about cybersecurity and love exploring vulnerabilities, securing systems, and understanding real-world cyber threats.
+
+---
+
+## ⚙️ Skills
+- 🔐 Cybersecurity & Ethical Hacking  
+- 🐍 Python Programming  
+- 🗄️ SQL & Database Security  
+- 🌐 Web Application Security  
+
+---
+
+## 📂 Projects
+- 🔍 SQL Injection Types  
+- 🏦 Mobile Banking Security Implementation  
+- 🛡️ Threat Intelligence Sharing Platform Security  
+- 🎣 Phishing Attack Research  
+
+---
+
+## 📫 Contact Me
+📧 Email: tc2907198@gmail.com  
+
+---
+
+## 🚀 Goals
+- Become a Cybersecurity Analyst  
+- Work on real-world security projects  
+- Contribute to open-source security tools  
